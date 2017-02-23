@@ -1,8 +1,11 @@
 {
   "name": "weather-phone-search",
-  "version": "1.0.0",
-  "description": "一个可以��查询天气与手机归属地的小工具",
+  "version": "1.1.1",
+  "description": "一个可以查询天气与手机归属地的小工具",
   "main": "index.js",
+  "bin": {
+    "weather": "./bin/weather"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/YasinChan/weather-phone-search/issues"
   },
-  "homepage": "https://github.com/YasinChan/weather-phone-search#readme"
+  "homepage": "https://github.com/YasinChan/weather-phone-search#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
 }
