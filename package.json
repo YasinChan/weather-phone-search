@@ -1,0 +1,23 @@
+{
+  "name": "weather-phone-search",
+  "version": "1.0.0",
+  "description": "一个可以��查询天气与手机归属地的小工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinChan/weather-phone-search.git"
+  },
+  "keywords": [
+    "weather",
+    "phone"
+  ],
+  "author": "yasinchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasinChan/weather-phone-search/issues"
+  },
+  "homepage": "https://github.com/YasinChan/weather-phone-search#readme"
+}
