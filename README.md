@@ -7,7 +7,7 @@
 安装：
 
 ```
-npm install weather-phone-search
+npm install weather-phone-search -g
 ```
 
 
